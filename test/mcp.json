@@ -1,0 +1,10 @@
+{
+	"servers": {
+		"hello-world": {
+			"type": "stdio",
+			"command": "python",
+			"args": ["C:/pathtoenv/virtual_environment/test/helloworld_server.py"]
+		}
+	},
+	"inputs": []
+}
